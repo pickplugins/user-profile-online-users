@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User profile – Online Users\n"
+"POT-Creation-Date: 2017-12-27 11:44+0600\n"
+"PO-Revision-Date: 2017-12-27 11:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: templates/online-users.php:22
+msgid "Online users"
+msgstr ""
+
+#: templates/user-online-status.php:15
+msgid "Offline"
+msgstr ""
+
+#: templates/user-online-status.php:17
+#, php-format
+msgid "Last seen: %s ago"
+msgstr ""
+
+#: templates/user-online-status.php:22
+msgid "Online"
+msgstr ""
+
+#: templates/user-online-status.php:24
+msgid "Active now"
+msgstr ""
